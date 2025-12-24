@@ -1,6 +1,6 @@
 # Shaaz Siddiqi
 
-**IT Administrator | Web Developer | Automation & E-commerce Operations**
+**IT & Web Development Professional | Emerging Tech Enthusiast | Continuous Learner & Builder**
 
 I build, maintain, and optimize reliable technology systems — from IT infrastructure and automation tools to modern web applications and eCommerce platforms.
 
@@ -35,17 +35,17 @@ I work across **IT support**, **web development**, and **technical operations**,
 ### 🌦️ Weather App (React)
 A responsive weather application using public APIs with location search and a clean UI.  
 **Tech:** React, JavaScript, API handling, CSS  
-📂 Repository: https://github.com/sid111
+📂 Repository: https://github.com/sid111/Weather-Info-Dashboard
 
 ### 🧰 Python Automation Scripts
 A collection of Python scripts designed to automate everyday IT and data tasks.  
 **Tech:** Python  
-📂 Repository: https://github.com/sid111
+📂 Repository: https://github.com/sid111/Python_Automatation_Toolkit
 
 ### 🌐 Personal Portfolio Website
 A professional portfolio showcasing projects, skills, and contact information.  
 **Tech:** HTML, CSS, JavaScript  
-📂 Repository: https://github.com/sid111
+📂 Repository: https://github.com/sid111/Frontend-Portfolio
 
 > Repositories are continuously improved and updated as part of ongoing learning and professional work.
 
@@ -71,16 +71,10 @@ A professional portfolio showcasing projects, skills, and contact information.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sid111&show_icons=true&hide_title=true)
-
----
-
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shaaz-siddiqi-0476539a/
-- 🌐 Portfolio: (add your live portfolio link)
+- 🌐 Portfolio: https://frontend-portfolio-one-rose.vercel.app/
 - 📧 Email: shaaz.scorpy@gmail.com
 
 ---
