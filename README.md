@@ -45,7 +45,7 @@ A collection of Python scripts designed to automate everyday IT and data tasks.
 ### 🌐 Personal Portfolio Website
 A professional portfolio showcasing projects, skills, and contact information.  
 **Tech:** HTML, CSS, JavaScript  
-📂 Repository: (https://frontend-portfolio-one-rose.vercel.app/)
+📂 Repository: [https://frontend-portfolio-one-rose.vercel.app/]
 
 > Repositories are continuously improved and updated as part of ongoing learning and professional work.
 
