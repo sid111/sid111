@@ -34,7 +34,7 @@ I work across **IT support**, **web development**, and **technical operations**,
 
 ### 🌦️ Foodfinder Vision (PHP)
 A glassmorphism-inspired restaurant finder website for Karachi, built with PHP and Bootstrap.    
-**Tech:** PHP, MYSQL, Javascript, CSS  
+**Tech:** PHP, MYSQL
 📂 Repository: https://github.com/sid111/Foodfinder_Vision
 
 ### 🧰 Python Automation Scripts
