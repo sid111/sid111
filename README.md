@@ -57,6 +57,7 @@ A professional portfolio showcasing projects, skills, and contact information.
 - JavaScript (ES6+), React
 - Python
 - HTML5, CSS3
+- PHP, MySQL
 
 **Tools & Platforms**
 - Git & GitHub
