@@ -32,10 +32,10 @@ I work across **IT support**, **web development**, and **technical operations**,
 
 ## 🚀 Featured Projects
 
-### 🌦️ Weather App (React)
-A responsive weather application using public APIs with location search and a clean UI.  
-**Tech:** React, JavaScript, API handling, CSS  
-📂 Repository: https://github.com/sid111/Weather-Info-Dashboard
+### 🌦️ Foodfinder Vision (PHP)
+A glassmorphism-inspired restaurant finder website for Karachi, built with PHP and Bootstrap.
+**Tech:** PHP, MYSQL, Javascript, CSS  
+📂 Repository: https://github.com/sid111/Foodfinder_Vision
 
 ### 🧰 Python Automation Scripts
 A collection of Python scripts designed to automate everyday IT and data tasks.  
